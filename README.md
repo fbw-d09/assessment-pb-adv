@@ -1,7 +1,5 @@
 # PB Assessment II
 
-[Google Forms Template](https://docs.google.com/forms/d/1KC1a8XXR6HptGJtdmGsrl4Bis8b7zI1hxpLHbYeuli4/edit)
-
 ## Answer the following questions
 
 1.  (multiple choice) We use conditional statements in our code when we want it to perform:
